@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: GoGreen Bootstrap Web Files
+Implementation-Version: 0.1.0-SNAPSHOT
+Built-By: semiribrahim
+Specification-Vendor: 
+Implementation-Build: 
+Specification-Title: GoGreen Bootstrap Web Files
+Implementation-Vendor-Id: org.example
+Build-Jdk: 1.8.0_65
+Specification-Version: 0.1.0-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: 
+

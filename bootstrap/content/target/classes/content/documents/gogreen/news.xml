@@ -1,0 +1,1932 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="news">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hippostd:folder</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+    <sv:value>hippotranslation:translated</sv:value>
+    <sv:value>mix:referenceable</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>b6ab8cd9-dbe7-429a-afa9-c7d5ac2dab0d</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+    <sv:value>new-news-document</sv:value>
+    <sv:value>new-news-folder</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:id" sv:type="String">
+    <sv:value>d0ea7bb8-2112-45b5-81e3-dc3ea1c28dc8</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:locale" sv:type="String">
+    <sv:value>en</sv:value>
+  </sv:property>
+  <sv:node sv:name="2016">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippostd:folder</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippotranslation:translated</sv:value>
+      <sv:value>mix:referenceable</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>734d139c-3b86-4e16-b655-6ce08a6a28b6</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+      <sv:value>new-news-document</sv:value>
+      <sv:value>new-news-folder</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:id" sv:type="String">
+      <sv:value>b17f334a-d284-4fce-9db6-7f1176e170f5</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:locale" sv:type="String">
+      <sv:value>en</sv:value>
+    </sv:property>
+    <sv:node sv:name="04">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>ef67c576-eb2b-420e-bd69-e4433327ec87</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-news-document</sv:value>
+        <sv:value>new-news-folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>ccadaac4-e2e0-4768-a973-f70b4ca57986</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="the-medusa-news">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>c580ac64-3874-4717-a6d9-e5ad72080abe</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>The medusa news</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="the-medusa-news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>8adefba7-47e0-48c4-9eaf-45766f0b5598</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>Alfred Anonymous</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T11:42:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>Rotterdam</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>The medusa news</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/the-medusa-news/the-medusa-news[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:holder" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2013-11-12T13:03:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2016-04-08T12:51:34.917+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2016-04-08T12:51:41.019+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>2f381838-d162-41e4-8f9b-9ff0298b1709</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;html&gt;
+          &lt;body&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum &lt;/p&gt;
+
+          &lt;/body&gt;
+          &lt;/html&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>4709f797-61ae-4c36-93d4-63b5d50fc200</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>30092f4e-2ef7-4c72-86a5-8ce895908937</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>aeda2bcd-b21d-4ead-a2e6-c64a2ca051c8</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="the-medusa-news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>cfde8fbc-efec-450e-b314-776c771b5a86</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>Alfred Anonymous</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T11:42:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>Rotterdam</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>The medusa news</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/the-medusa-news/the-medusa-news</sv:value>
+            <sv:value>news/2016/04/the-medusa-news/the-medusa-news[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>draft</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2013-11-12T13:03:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2016-04-08T12:49:44.695+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>2f381838-d162-41e4-8f9b-9ff0298b1709</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;html&gt;
+          &lt;body&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum &lt;/p&gt;
+
+          &lt;/body&gt;
+          &lt;/html&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>4709f797-61ae-4c36-93d4-63b5d50fc200</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>30092f4e-2ef7-4c72-86a5-8ce895908937</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>aeda2bcd-b21d-4ead-a2e6-c64a2ca051c8</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="the-medusa-news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:versionable</sv:value>
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>adaa59f1-12c9-4495-8a60-a0f3b4276d9d</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>Alfred Anonymous</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T11:42:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>Rotterdam</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>The medusa news</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/the-medusa-news/the-medusa-news</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2013-11-12T13:03:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2016-04-08T12:51:34.917+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>2f381838-d162-41e4-8f9b-9ff0298b1709</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;html&gt;
+          &lt;body&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum &lt;/p&gt;
+
+          &lt;/body&gt;
+          &lt;/html&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>4709f797-61ae-4c36-93d4-63b5d50fc200</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>30092f4e-2ef7-4c72-86a5-8ce895908937</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>aeda2bcd-b21d-4ead-a2e6-c64a2ca051c8</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="2013-harvest">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>30092f4e-2ef7-4c72-86a5-8ce895908937</sv:value>
+        </sv:property>
+        <sv:node sv:name="2013-harvest">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>ad42ff69-f1cc-494c-bbc1-5ba335fbe9dd</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>Alfred Anonymous</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T11:42:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>Rome</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>2013 harvest</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/2013-harvest/2013-harvest[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:holder" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2013-11-12T14:31:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2013-11-12T14:31:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2013-11-12T14:31:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>943c52f7-717c-4753-92d3-0266b50a793b</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;html&gt;
+          &lt;body&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum &lt;/p&gt;
+
+          &lt;/body&gt;
+          &lt;/html&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>beff458e-e07a-4065-8cad-8d96b67d13ec</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>2013 harvest</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="2013-harvest">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:versionable</sv:value>
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>40de98ee-2e4c-4d82-9771-840f2b8d3be0</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>Alfred Anonymous</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T11:42:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>Rome</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>2013 harvest</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/2013-harvest/2013-harvest</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2013-11-12T14:31:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2013-11-12T14:31:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>943c52f7-717c-4753-92d3-0266b50a793b</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;html&gt;
+          &lt;body&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum &lt;/p&gt;
+
+          &lt;/body&gt;
+          &lt;/html&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>beff458e-e07a-4065-8cad-8d96b67d13ec</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="the-gastropoda-news">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>aeda2bcd-b21d-4ead-a2e6-c64a2ca051c8</sv:value>
+        </sv:property>
+        <sv:node sv:name="the-gastropoda-news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>6d9e2b9a-7e9a-48bf-9796-83d086b67ceb</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>Alfred Anonymous</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T11:42:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>Liverpool</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>The gastropoda news</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/the-gastropoda-news/the-gastropoda-news[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:holder" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2013-11-12T12:50:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2013-11-12T12:52:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2016-04-08T17:02:27.077+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>a0711814-eed6-43a8-a811-d13603b4b919</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;html&gt;
+          &lt;body&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum &lt;/p&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum &lt;/p&gt;
+
+          &lt;/body&gt;
+          &lt;/html&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>3c740fcf-8ec5-4f00-a713-ff96caa645c8</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>The gastropoda news</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="the-gastropoda-news">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:versionable</sv:value>
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>fdd1cb21-b0e8-478e-93ca-0547271b8a81</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>Alfred Anonymous</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T11:42:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>Liverpool</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>The gastropoda news</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/the-gastropoda-news/the-gastropoda-news</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>new</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2013-11-12T12:50:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2013-11-12T12:52:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>a0711814-eed6-43a8-a811-d13603b4b919</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;html&gt;
+          &lt;body&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum &lt;/p&gt;
+
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+          sunt in culpa qui officia deserunt mollit anim id est laborum &lt;/p&gt;
+
+          &lt;/body&gt;
+          &lt;/html&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>3c740fcf-8ec5-4f00-a713-ff96caa645c8</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="exclusive-and-premiere-wedding-venue">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>f5ecd64b-741c-45c7-9def-510ebd4b7dfb</sv:value>
+        </sv:property>
+        <sv:node sv:name="exclusive-and-premiere-wedding-venue">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>f363aa23-04e5-4f89-8cb9-2b31772512fc</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>Semir Ibrahim</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T16:47:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>Adama new and exclusive Première Venue is situated in Wester Road in Roshulme, Adama Venue is an epitome of elegance, extravagance and luxury, making it an ideal venue for the most memorable day of your life.</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>Manchester</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value>http://www.shaadi.com.my/exclusive-and-premiere-at-klang/</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>Exclusive and Première Wedding Venue</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/exclusive-and-premiere-wedding-venue/exclusive-and-premiere-wedding-venue[3]</sv:value>
+            <sv:value>news/2016/04/exclusive-and-premiere-wedding-venue/exclusive-and-premiere-wedding-venue[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>draft</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:44:36.919+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:53:02.212+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>9ca41379-cf8d-4b1d-acce-cf3030b7bde3</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;Adama new and exclusive Première Venue is situated in Wester Road in Roshulme, Adama Venue is an epitome of elegance, extravagance and luxury, making it an ideal venue for the most memorable day of your life.&lt;/p&gt;
+
+&lt;p&gt;Its pillarless Grand Ballroom extends up to 26-feet in ceiling height that is able to accommodate 830 guests. Spacious and fully equipped with state-of-the-art audio visual and lighting equipment, you will be guaranteed a beautiful and unforgettable wedding with Première Hotel. If you prefer a small and intimate wedding ceremony, fret not for the multipurpose function rooms can be transformed to fit the ultimate wedding venue you desire.&lt;/p&gt;
+
+&lt;p&gt;For More Info:&amp;nbsp;&lt;a href="http://www.shaadi.com.my/exclusive-and-premiere-at-klang/"&gt;http://www.shaadi.com.my/exclusive-and-premiere-at-klang/&amp;nbsp;&lt;/a&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>0dd7254d-b02b-46e1-b1fe-2d334feed205</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Exclusive and Première Wedding Venue</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="exclusive-and-premiere-wedding-venue">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:versionable</sv:value>
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>e893fa92-8f3b-45bb-b5bd-6d1dc2c901b4</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>Semir Ibrahim</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T16:47:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>Adama new and exclusive Première Venue is situated in Wester Road in Roshulme, Adama Venue is an epitome of elegance, extravagance and luxury, making it an ideal venue for the most memorable day of your life.</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>Manchester</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value>http://www.shaadi.com.my/exclusive-and-premiere-at-klang/</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>Exclusive and Première Wedding Venue</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/exclusive-and-premiere-wedding-venue/exclusive-and-premiere-wedding-venue[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:44:36.919+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:53:30.341+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>9ca41379-cf8d-4b1d-acce-cf3030b7bde3</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;Adama new and exclusive Première Venue is situated in Wester Road in Roshulme, Adama Venue is an epitome of elegance, extravagance and luxury, making it an ideal venue for the most memorable day of your life.&lt;/p&gt;
+
+&lt;p&gt;Its pillarless Grand Ballroom extends up to 26-feet in ceiling height that is able to accommodate 830 guests. Spacious and fully equipped with state-of-the-art audio visual and lighting equipment, you will be guaranteed a beautiful and unforgettable wedding with Première Hotel. If you prefer a small and intimate wedding ceremony, fret not for the multipurpose function rooms can be transformed to fit the ultimate wedding venue you desire.&lt;/p&gt;
+
+&lt;p&gt;For More Info:&amp;nbsp;&lt;a href="http://www.shaadi.com.my/exclusive-and-premiere-at-klang/"&gt;http://www.shaadi.com.my/exclusive-and-premiere-at-klang/&amp;nbsp;&lt;/a&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>0dd7254d-b02b-46e1-b1fe-2d334feed205</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="exclusive-and-premiere-wedding-venue">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>ccc21f61-e6d6-4b56-82dc-469c547c94d5</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>Semir Ibrahim</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T16:47:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>Adama new and exclusive Première Venue is situated in Wester Road in Roshulme, Adama Venue is an epitome of elegance, extravagance and luxury, making it an ideal venue for the most memorable day of your life.</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>Manchester</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value>http://www.shaadi.com.my/exclusive-and-premiere-at-klang/</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>Exclusive and Première Wedding Venue</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/exclusive-and-premiere-wedding-venue/exclusive-and-premiere-wedding-venue[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:44:36.919+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:53:30.341+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:53:32.756+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>9ca41379-cf8d-4b1d-acce-cf3030b7bde3</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;Adama new and exclusive Première Venue is situated in Wester Road in Roshulme, Adama Venue is an epitome of elegance, extravagance and luxury, making it an ideal venue for the most memorable day of your life.&lt;/p&gt;
+
+&lt;p&gt;Its pillarless Grand Ballroom extends up to 26-feet in ceiling height that is able to accommodate 830 guests. Spacious and fully equipped with state-of-the-art audio visual and lighting equipment, you will be guaranteed a beautiful and unforgettable wedding with Première Hotel. If you prefer a small and intimate wedding ceremony, fret not for the multipurpose function rooms can be transformed to fit the ultimate wedding venue you desire.&lt;/p&gt;
+
+&lt;p&gt;For More Info:&amp;nbsp;&lt;a href="http://www.shaadi.com.my/exclusive-and-premiere-at-klang/"&gt;http://www.shaadi.com.my/exclusive-and-premiere-at-klang/&amp;nbsp;&lt;/a&gt;&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>0dd7254d-b02b-46e1-b1fe-2d334feed205</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="elegant-brand-new-wedding-venues-in-manchester">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>a8a89ed4-c05f-4d15-99a4-6473d34d5fc4</sv:value>
+        </sv:property>
+        <sv:node sv:name="elegant-brand-new-wedding-venues-in-manchester">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>b269e14c-c687-4ed1-be94-ec3d0f705cb6</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>John Smith</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T16:51:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>We know your special day is important to you – Host your once-in-a-lifetime wedding in one of our spacious Brandon wedding venues.</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>Manchester</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value>https://brandon.vicinn.com/brandon-weddings/</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>Elegant Brand New Wedding Venues in Manchester</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/elegant-brand-new-wedding-venues-in-manchester/elegant-brand-new-wedding-venues-in-manchester[2]</sv:value>
+            <sv:value>news/2016/04/elegant-brand-new-wedding-venues-in-manchester/elegant-brand-new-wedding-venues-in-manchester[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>draft</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:49:54.885+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:53:51.294+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>ca9e46ee-84e2-46ad-943a-dd97d3b8a71f</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p style="text-align:start"&gt;We know your special day is important to you – Host your once-in-a-lifetime wedding in one of our spacious Brandon wedding venues.&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;It’s a day you look forward to with great anticipation, and you want everything to go perfectly. Let the&amp;nbsp;Victoria Inn&amp;nbsp;provide you with peace of mind. Rest assured that we will look after the details, so you can enjoy your special day.&amp;nbsp;Personalized service is a part of every ceremony or reception held at our Brandon wedding venues.&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;The&amp;nbsp;Victoria Inn&amp;nbsp;is the ideal setting for your wedding festivities. We can accommodate&amp;nbsp;10 to 600 guests in our various banquet rooms. Our hospitality rooms and smaller gathering spaces are also available for special pre- and post-wedding functions such as rehearsal parties and gift openings.&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;We offer white glove and head table service, professionally trained and supervised employees, a manager on duty and complimentary parking.&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;Our chefs have prepared a selection of menu items and options to help you plan your wedding reception meal and late lunch. We are flexible with the creation of specialized menus and give prompt attention to all special requests. Our team of professionals is one of the most experienced of all Brandon wedding venues.&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>24f403da-de84-4b9f-a6af-0a4ebadfce2e</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>f5ecd64b-741c-45c7-9def-510ebd4b7dfb</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Elegant Brand New Wedding Venues in Manchester</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="elegant-brand-new-wedding-venues-in-manchester">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:versionable</sv:value>
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>1e3692c6-8bf0-4031-9152-09a7e3458cd2</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>John Smith</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T16:51:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>We know your special day is important to you – Host your once-in-a-lifetime wedding in one of our spacious Brandon wedding venues.</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>Manchester</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value>https://brandon.vicinn.com/brandon-weddings/</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>Elegant Brand New Wedding Venues in Manchester</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/elegant-brand-new-wedding-venues-in-manchester/elegant-brand-new-wedding-venues-in-manchester[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:49:54.885+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:54:00.939+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>ca9e46ee-84e2-46ad-943a-dd97d3b8a71f</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p style="text-align:start"&gt;We know your special day is important to you – Host your once-in-a-lifetime wedding in one of our spacious Brandon wedding venues.&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;It’s a day you look forward to with great anticipation, and you want everything to go perfectly. Let the&amp;nbsp;Victoria Inn&amp;nbsp;provide you with peace of mind. Rest assured that we will look after the details, so you can enjoy your special day.&amp;nbsp;Personalized service is a part of every ceremony or reception held at our Brandon wedding venues.&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;The&amp;nbsp;Victoria Inn&amp;nbsp;is the ideal setting for your wedding festivities. We can accommodate&amp;nbsp;10 to 600 guests in our various banquet rooms. Our hospitality rooms and smaller gathering spaces are also available for special pre- and post-wedding functions such as rehearsal parties and gift openings.&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;We offer white glove and head table service, professionally trained and supervised employees, a manager on duty and complimentary parking.&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;Our chefs have prepared a selection of menu items and options to help you plan your wedding reception meal and late lunch. We are flexible with the creation of specialized menus and give prompt attention to all special requests. Our team of professionals is one of the most experienced of all Brandon wedding venues.&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>24f403da-de84-4b9f-a6af-0a4ebadfce2e</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>f5ecd64b-741c-45c7-9def-510ebd4b7dfb</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="elegant-brand-new-wedding-venues-in-manchester">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>e8579d7b-4b78-45ef-b813-40971abadfa1</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>John Smith</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T16:51:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>We know your special day is important to you – Host your once-in-a-lifetime wedding in one of our spacious Brandon wedding venues.</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>Manchester</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value>https://brandon.vicinn.com/brandon-weddings/</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>Elegant Brand New Wedding Venues in Manchester</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/elegant-brand-new-wedding-venues-in-manchester/elegant-brand-new-wedding-venues-in-manchester[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:49:54.885+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:54:00.939+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:54:03.380+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>ca9e46ee-84e2-46ad-943a-dd97d3b8a71f</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p style="text-align:start"&gt;We know your special day is important to you – Host your once-in-a-lifetime wedding in one of our spacious Brandon wedding venues.&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;It’s a day you look forward to with great anticipation, and you want everything to go perfectly. Let the&amp;nbsp;Victoria Inn&amp;nbsp;provide you with peace of mind. Rest assured that we will look after the details, so you can enjoy your special day.&amp;nbsp;Personalized service is a part of every ceremony or reception held at our Brandon wedding venues.&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;The&amp;nbsp;Victoria Inn&amp;nbsp;is the ideal setting for your wedding festivities. We can accommodate&amp;nbsp;10 to 600 guests in our various banquet rooms. Our hospitality rooms and smaller gathering spaces are also available for special pre- and post-wedding functions such as rehearsal parties and gift openings.&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;We offer white glove and head table service, professionally trained and supervised employees, a manager on duty and complimentary parking.&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;Our chefs have prepared a selection of menu items and options to help you plan your wedding reception meal and late lunch. We are flexible with the creation of specialized menus and give prompt attention to all special requests. Our team of professionals is one of the most experienced of all Brandon wedding venues.&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>24f403da-de84-4b9f-a6af-0a4ebadfce2e</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>f5ecd64b-741c-45c7-9def-510ebd4b7dfb</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="stunning-wedding-stage-decor">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>8ae0ec76-3a06-48ea-9b84-c8efde965358</sv:value>
+        </sv:property>
+        <sv:node sv:name="stunning-wedding-stage-decor">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>107fc1ae-2472-4dc7-807c-9180d172682f</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>Semir Ibrahim</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T17:00:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>We at Celebrate Express Wedding Service provide stunning wedding stages for rent.  Wedding stages include traditional stages, crystal stages, half moon stages and walkway pillars with red carpet.</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>London</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value>https://www.gumtree.com/p/other-wedding-services/asian-wedding-stages/1163437785</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>Stunning Wedding Stage Design</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/stunning-wedding-stage-decor/stunning-wedding-stage-decor[3]</sv:value>
+            <sv:value>news/2016/04/stunning-wedding-stage-decor/stunning-wedding-stage-decor[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>draft</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:56:50.382+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2016-04-08T17:34:51.353+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>1619f7ab-fd18-47ac-9bc2-64d6f1db468f</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;We at&amp;nbsp;Celebrate Express Wedding Service provide stunning wedding stages for rent. &amp;nbsp;Wedding stages include traditional stages, crystal stages, half moon stages and walkway pillars with red carpet.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Our traditional stages offer beautiful multicoloured backdrops, mehndi swing, new furniture, mehndi themed stage decor, including colourful umbrellas, ornaments, walkways and much more.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;We also do LED house lighting. Its a perfect way of decorating your home for a special occasion, so why not let us create a fantastic atmosphere for you&amp;apos;re special occasion.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;We provide chair covers with coloured sashes which enhance the look of you&amp;apos;re venue for that elegant finishing touch.&amp;nbsp;&lt;br /&gt;
+We can provide centrepieces too which are great for all occasions and a beautiful way of decorating your venue.&amp;nbsp;&lt;br /&gt;
+We work with you, keeping your best interest at heart in delivering a bespoke service.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Contact us to see how we can help make your special day, one to truly cherish.&amp;nbsp;&lt;br /&gt;
+For a free no obligation quote call:&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;07495 611 387 (Mr. Semir Ibrahim)&lt;/p&gt;
+
+&lt;p&gt;Advert ID: 123456789&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>f0e85532-0b34-4ebf-99e3-292517a5dc23</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>a8a89ed4-c05f-4d15-99a4-6473d34d5fc4</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>f5ecd64b-741c-45c7-9def-510ebd4b7dfb</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Stunning Wedding Stage Decor</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="stunning-wedding-stage-decor">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:versionable</sv:value>
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>dafd0010-6fb3-403f-8471-c27eeecddb57</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>Semir Ibrahim</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T17:00:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>We at Celebrate Express Wedding Service provide stunning wedding stages for rent.  Wedding stages include traditional stages, crystal stages, half moon stages and walkway pillars with red carpet.</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>London</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value>https://www.gumtree.com/p/other-wedding-services/asian-wedding-stages/1163437785</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>Stunning Wedding Stage Design</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/stunning-wedding-stage-decor/stunning-wedding-stage-decor[3]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>unpublished</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:56:50.382+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2016-04-08T17:35:04.082+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>1619f7ab-fd18-47ac-9bc2-64d6f1db468f</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;We at&amp;nbsp;Celebrate Express Wedding Service provide stunning wedding stages for rent. &amp;nbsp;Wedding stages include traditional stages, crystal stages, half moon stages and walkway pillars with red carpet.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Our traditional stages offer beautiful multicoloured backdrops, mehndi swing, new furniture, mehndi themed stage decor, including colourful umbrellas, ornaments, walkways and much more.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;We also do LED house lighting. Its a perfect way of decorating your home for a special occasion, so why not let us create a fantastic atmosphere for you&amp;apos;re special occasion.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;We provide chair covers with coloured sashes which enhance the look of you&amp;apos;re venue for that elegant finishing touch.&amp;nbsp;&lt;br /&gt;
+We can provide centrepieces too which are great for all occasions and a beautiful way of decorating your venue.&amp;nbsp;&lt;br /&gt;
+We work with you, keeping your best interest at heart in delivering a bespoke service.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Contact us to see how we can help make your special day, one to truly cherish.&amp;nbsp;&lt;br /&gt;
+For a free no obligation quote call:&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;07495 611 387 (Mr. Semir Ibrahim)&lt;/p&gt;
+
+&lt;p&gt;Advert ID: 123456789&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>f0e85532-0b34-4ebf-99e3-292517a5dc23</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>a8a89ed4-c05f-4d15-99a4-6473d34d5fc4</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>f5ecd64b-741c-45c7-9def-510ebd4b7dfb</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="stunning-wedding-stage-decor">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>gogreen:newsdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>mix:referenceable</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>5f03ee0b-9f44-4b24-a762-55e6e9ca7f33</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:author" sv:type="String">
+            <sv:value>Semir Ibrahim</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:date" sv:type="Date">
+            <sv:value>2016-04-08T17:00:00.000+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:documenttype" sv:type="String">
+            <sv:value>news</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:introduction" sv:type="String">
+            <sv:value>We at Celebrate Express Wedding Service provide stunning wedding stages for rent.  Wedding stages include traditional stages, crystal stages, half moon stages and walkway pillars with red carpet.</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:location" sv:type="String">
+            <sv:value>London</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:source" sv:type="String">
+            <sv:value>https://www.gumtree.com/p/other-wedding-services/asian-wedding-stages/1163437785</sv:value>
+          </sv:property>
+          <sv:property sv:name="gogreen:title" sv:type="String">
+            <sv:value>Stunning Wedding Stage Design</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>news/2016/04/stunning-wedding-stage-decor/stunning-wedding-stage-decor[2]</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2016-04-08T16:56:50.382+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2016-04-08T17:35:04.082+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2016-04-08T17:35:06.368+01:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>1619f7ab-fd18-47ac-9bc2-64d6f1db468f</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="gogreen:content">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p&gt;We at&amp;nbsp;Celebrate Express Wedding Service provide stunning wedding stages for rent. &amp;nbsp;Wedding stages include traditional stages, crystal stages, half moon stages and walkway pillars with red carpet.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Our traditional stages offer beautiful multicoloured backdrops, mehndi swing, new furniture, mehndi themed stage decor, including colourful umbrellas, ornaments, walkways and much more.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;We also do LED house lighting. Its a perfect way of decorating your home for a special occasion, so why not let us create a fantastic atmosphere for you&amp;apos;re special occasion.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;We provide chair covers with coloured sashes which enhance the look of you&amp;apos;re venue for that elegant finishing touch.&amp;nbsp;&lt;br /&gt;
+We can provide centrepieces too which are great for all occasions and a beautiful way of decorating your venue.&amp;nbsp;&lt;br /&gt;
+We work with you, keeping your best interest at heart in delivering a bespoke service.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Contact us to see how we can help make your special day, one to truly cherish.&amp;nbsp;&lt;br /&gt;
+For a free no obligation quote call:&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;07495 611 387 (Mr. Semir Ibrahim)&lt;/p&gt;
+
+&lt;p&gt;Advert ID: 123456789&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:image">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippogallerypicker:imagelink</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>f0e85532-0b34-4ebf-99e3-292517a5dc23</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+            <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>a8a89ed4-c05f-4d15-99a4-6473d34d5fc4</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="gogreen:relatednews">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippo:mirror</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippo:docbase" sv:type="String">
+              <sv:value>f5ecd64b-741c-45c7-9def-510ebd4b7dfb</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+</sv:node>

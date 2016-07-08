@@ -1,0 +1,1201 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="products">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hippostd:folder</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+    <sv:value>hippotranslation:translated</sv:value>
+    <sv:value>mix:versionable</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>c4747ceb-60f6-4949-ad4e-a5c3d9353f93</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+    <sv:value>new-translated-folder</sv:value>
+    <sv:value>new-document</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:id" sv:type="String">
+    <sv:value>77bd2ce2-37f6-44aa-8534-0e20f4954e53</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:locale" sv:type="String">
+    <sv:value>en</sv:value>
+  </sv:property>
+  <sv:node sv:name="birthday-theme-party-organiser--planner">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>mix:referenceable</sv:value>
+      <sv:value>hippo:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>52f3f931-60a9-4746-a798-f827dd868c84</sv:value>
+    </sv:property>
+    <sv:node sv:name="birthday-theme-party-organiser--planner">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>1416f5e9-708f-4a76-ba6d-1aede9dc8479</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Welcome to Event Management Ltd.</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>400.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Birthday Theme Party Organiser &amp; Planner</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/birthday-theme-party-organiser--planner/birthday-theme-party-organiser--planner[2]</sv:value>
+        <sv:value>products/birthday-theme-party-organiser--planner/birthday-theme-party-organiser--planner[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-04-08T14:26:46.382+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-04-08T14:26:46.513+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>48700b76-4555-400e-a6f0-98fdc9cdd5c4</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Wherther you want to throw a kids birthday party with us or need decoration, you can alwasy rely on us. Celebrating birthdays mean you will have to make a lot of arrangments.&amp;nbsp;Do not panic as we are there for your resuce.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;We are the kids &lt;strong&gt;birthday organizer based in Manchester&lt;/strong&gt; and all over the Northwest. We caters to all the needs of a party whether it is:&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;Balloon Decoration&lt;/li&gt;
+ &lt;li&gt;Light Decoration&lt;/li&gt;
+ &lt;li&gt;Catering and even cake arrangement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Be it kid&amp;apos;s birthday or even your grandma&amp;apos;s birthday, we are here to make every moment, a cherished one.&lt;/p&gt;
+
+&lt;p&gt;Contact us at:&amp;nbsp;&lt;a href="http://www.delhicelebration.com/"&gt;http://www.delhicelebration.com/&amp;nbsp;&lt;/a&gt;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>671800e3-e55d-4b21-a697-45be56ed3de3</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>3b226efa-cfd3-488d-8635-de6db07f2a76</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="hippo:translation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:translation</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:language" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:message" sv:type="String">
+        <sv:value>Birthday Theme Party Organiser &amp; Planner</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="birthday-theme-party-organiser--planner">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>30335a57-20b5-49d0-b8e2-a648b816e8cf</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Welcome to Event Management Ltd.</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>400.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Birthday Theme Party Organiser &amp; Planner</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/birthday-theme-party-organiser--planner/birthday-theme-party-organiser--planner[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-04-08T14:26:46.382+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-04-08T14:34:36.841+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>48700b76-4555-400e-a6f0-98fdc9cdd5c4</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Wherther you want to throw a kids birthday party with us or need decoration, you can alwasy rely on us. Celebrating birthdays mean you will have to make a lot of arrangments.&amp;nbsp;Do not panic as we are there for your resuce.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;We are the kids &lt;strong&gt;birthday organizer based in Manchester&lt;/strong&gt; and all over the Northwest. We caters to all the needs of a party whether it is:&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;Balloon Decoration&lt;/li&gt;
+ &lt;li&gt;Light Decoration&lt;/li&gt;
+ &lt;li&gt;Catering and even cake arrangement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Be it kid&amp;apos;s birthday or even your grandma&amp;apos;s birthday, we are here to make every moment, a cherished one.&lt;/p&gt;
+
+&lt;p&gt;Contact us at:&amp;nbsp;&lt;a href="http://www.delhicelebration.com/"&gt;http://www.delhicelebration.com/&amp;nbsp;&lt;/a&gt;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>671800e3-e55d-4b21-a697-45be56ed3de3</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>3b226efa-cfd3-488d-8635-de6db07f2a76</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="birthday-theme-party-organiser--planner">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>d68e57c3-87eb-4828-9c09-75ba8db62bf9</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Welcome to Event Management Ltd.</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>400.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Birthday Theme Party Organiser &amp; Planner</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/birthday-theme-party-organiser--planner/birthday-theme-party-organiser--planner[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-04-08T14:26:46.382+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-04-08T14:34:36.841+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2016-04-08T14:34:39.048+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>48700b76-4555-400e-a6f0-98fdc9cdd5c4</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Wherther you want to throw a kids birthday party with us or need decoration, you can alwasy rely on us. Celebrating birthdays mean you will have to make a lot of arrangments.&amp;nbsp;Do not panic as we are there for your resuce.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;We are the kids &lt;strong&gt;birthday organizer based in Manchester&lt;/strong&gt; and all over the Northwest. We caters to all the needs of a party whether it is:&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;Balloon Decoration&lt;/li&gt;
+ &lt;li&gt;Light Decoration&lt;/li&gt;
+ &lt;li&gt;Catering and even cake arrangement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Be it kid&amp;apos;s birthday or even your grandma&amp;apos;s birthday, we are here to make every moment, a cherished one.&lt;/p&gt;
+
+&lt;p&gt;Contact us at:&amp;nbsp;&lt;a href="http://www.delhicelebration.com/"&gt;http://www.delhicelebration.com/&amp;nbsp;&lt;/a&gt;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>671800e3-e55d-4b21-a697-45be56ed3de3</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>3b226efa-cfd3-488d-8635-de6db07f2a76</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="traditional-and-contemporary-habesha-clothes">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>mix:referenceable</sv:value>
+      <sv:value>hippo:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>b5b1bd2d-63e8-44e7-9fb8-70e144f98fbb</sv:value>
+    </sv:property>
+    <sv:node sv:name="traditional-and-contemporary-habesha-clothes">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>35c33b1c-986e-4762-acc6-f9b09f7c9286</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Habesha a stunning brand new ladies and gent suited for the any environment; office, social, and special occasions.</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>150.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Traditional and Contemporary Habesha Clothes</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/traditional-and-contemporary-habesha-clothes/traditional-and-contemporary-habesha-clothes[2]</sv:value>
+        <sv:value>products/traditional-and-contemporary-habesha-clothes/traditional-and-contemporary-habesha-clothes[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-04-08T14:41:46.876+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-04-08T16:26:03.424+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>d291562b-9477-4016-8b00-e3c7dc4fe30f</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;A stunning brand new &lt;em&gt;&lt;strong&gt;Habesha&lt;/strong&gt;&lt;/em&gt; ladies top suited for the any environment; office, social, and special. Made with high quality 100% White linen with hand loomed fabric made from a millennium old tradition. Couture accents on the sleeves made with the finest aesthetic considerations of balance and elegance. Available in White or Black (default White).&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This is a&amp;nbsp;&lt;u&gt;special order&lt;/u&gt;&amp;nbsp;item as the fabric comes from Ethiopia &amp;amp; Eritrea and may take slightly longer to arrive.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Category range includes:&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+ &lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;&lt;a href="http://www.ethiopianclothing.net/product/habesha-dress-habesha-kemis-traditional-habesha-dress/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration: none; outline: none;"&gt;DOKA GOLDEN HABESHA DRESS&lt;/a&gt;&lt;/p&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ &lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;&lt;a href="http://www.ethiopianclothing.net/product/keremela-menen-telf/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration: none; outline: none;"&gt;KEREMELA MENEN TELF&lt;/a&gt;&lt;/p&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ &lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;&lt;a href="http://www.ethiopianclothing.net/product/zaf-menen-telf/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration: none; outline: none;"&gt;ZAF MENEN TELF&lt;/a&gt;&lt;/p&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ &lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;&lt;a href="http://www.ethiopianclothing.net/product/zufan-organza-telf/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration: none; outline: none;"&gt;ZUFAN ORGANZA TELF&lt;/a&gt;&lt;/p&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;And many more...&lt;/p&gt;
+
+&lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;Contact us:&amp;nbsp;&lt;a href="http://www.ethiopianclothing.net/"&gt;http://www.ethiopianclothing.net/&amp;nbsp;&lt;/a&gt;,&lt;a href="http://ocacia.com/habesha-clothes.html"&gt;&amp;nbsp;http://ocacia.com/habesha-clothes.html&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>410f05af-a34c-4e45-bf2a-9cd9b5778568</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>aaa4c587-b77f-4164-80fd-6b2058be7396</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>943f18bd-f94a-4c81-b9db-19053234406a</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>36cb3e2e-cb17-4420-9264-fea4ef339a22</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>d6fd9ba3-bc18-4624-8cc6-8b1726fe7152</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>1500d05e-c694-44e9-b1ab-60d287662e56</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>b2ccf2f7-af47-46e7-8ab1-5a9bc29a1783</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>2a9d5a52-d994-4e11-90bd-08caa3a12d09</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="hippo:translation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:translation</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:language" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:message" sv:type="String">
+        <sv:value>Traditional and Contemporary Habesha Clothes</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="traditional-and-contemporary-habesha-clothes">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>0efdaaa1-49f7-41fc-8b6e-a5d02219f48a</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Habesha a stunning brand new ladies and gent suited for the any environment; office, social, and special occasions.</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>150.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Traditional and Contemporary Habesha Clothes</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/traditional-and-contemporary-habesha-clothes/traditional-and-contemporary-habesha-clothes[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-04-08T14:41:46.876+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-04-08T16:26:22.687+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>d291562b-9477-4016-8b00-e3c7dc4fe30f</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;A stunning brand new &lt;em&gt;&lt;strong&gt;Habesha&lt;/strong&gt;&lt;/em&gt; ladies top suited for the any environment; office, social, and special. Made with high quality 100% White linen with hand loomed fabric made from a millennium old tradition. Couture accents on the sleeves made with the finest aesthetic considerations of balance and elegance. Available in White or Black (default White).&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This is a&amp;nbsp;&lt;u&gt;special order&lt;/u&gt;&amp;nbsp;item as the fabric comes from Ethiopia &amp;amp; Eritrea and may take slightly longer to arrive.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Category range includes:&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+ &lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;&lt;a href="http://www.ethiopianclothing.net/product/habesha-dress-habesha-kemis-traditional-habesha-dress/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration: none; outline: none;"&gt;DOKA GOLDEN HABESHA DRESS&lt;/a&gt;&lt;/p&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ &lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;&lt;a href="http://www.ethiopianclothing.net/product/keremela-menen-telf/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration: none; outline: none;"&gt;KEREMELA MENEN TELF&lt;/a&gt;&lt;/p&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ &lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;&lt;a href="http://www.ethiopianclothing.net/product/zaf-menen-telf/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration: none; outline: none;"&gt;ZAF MENEN TELF&lt;/a&gt;&lt;/p&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ &lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;&lt;a href="http://www.ethiopianclothing.net/product/zufan-organza-telf/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration: none; outline: none;"&gt;ZUFAN ORGANZA TELF&lt;/a&gt;&lt;/p&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;And many more...&lt;/p&gt;
+
+&lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;Contact us:&amp;nbsp;&lt;a href="http://www.ethiopianclothing.net/"&gt;http://www.ethiopianclothing.net/&amp;nbsp;&lt;/a&gt;,&lt;a href="http://ocacia.com/habesha-clothes.html"&gt;&amp;nbsp;http://ocacia.com/habesha-clothes.html&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>410f05af-a34c-4e45-bf2a-9cd9b5778568</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>aaa4c587-b77f-4164-80fd-6b2058be7396</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>943f18bd-f94a-4c81-b9db-19053234406a</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>36cb3e2e-cb17-4420-9264-fea4ef339a22</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>d6fd9ba3-bc18-4624-8cc6-8b1726fe7152</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>1500d05e-c694-44e9-b1ab-60d287662e56</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>b2ccf2f7-af47-46e7-8ab1-5a9bc29a1783</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>2a9d5a52-d994-4e11-90bd-08caa3a12d09</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="traditional-and-contemporary-habesha-clothes">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>ca9ee612-381f-4ada-9c4f-cc23889349e9</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Habesha a stunning brand new ladies and gent suited for the any environment; office, social, and special occasions.</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>150.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Traditional and Contemporary Habesha Clothes</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/traditional-and-contemporary-habesha-clothes/traditional-and-contemporary-habesha-clothes[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-04-08T14:41:46.876+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-04-08T16:26:22.687+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2016-04-08T16:26:25.175+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>d291562b-9477-4016-8b00-e3c7dc4fe30f</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;A stunning brand new &lt;em&gt;&lt;strong&gt;Habesha&lt;/strong&gt;&lt;/em&gt; ladies top suited for the any environment; office, social, and special. Made with high quality 100% White linen with hand loomed fabric made from a millennium old tradition. Couture accents on the sleeves made with the finest aesthetic considerations of balance and elegance. Available in White or Black (default White).&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This is a&amp;nbsp;&lt;u&gt;special order&lt;/u&gt;&amp;nbsp;item as the fabric comes from Ethiopia &amp;amp; Eritrea and may take slightly longer to arrive.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Category range includes:&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+ &lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;&lt;a href="http://www.ethiopianclothing.net/product/habesha-dress-habesha-kemis-traditional-habesha-dress/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration: none; outline: none;"&gt;DOKA GOLDEN HABESHA DRESS&lt;/a&gt;&lt;/p&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ &lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;&lt;a href="http://www.ethiopianclothing.net/product/keremela-menen-telf/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration: none; outline: none;"&gt;KEREMELA MENEN TELF&lt;/a&gt;&lt;/p&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ &lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;&lt;a href="http://www.ethiopianclothing.net/product/zaf-menen-telf/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration: none; outline: none;"&gt;ZAF MENEN TELF&lt;/a&gt;&lt;/p&gt;
+ &lt;/li&gt;
+ &lt;li&gt;
+ &lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;&lt;a href="http://www.ethiopianclothing.net/product/zufan-organza-telf/" style="padding: 0px; margin: 0px; color: rgb(0, 0, 0); text-decoration: none; outline: none;"&gt;ZUFAN ORGANZA TELF&lt;/a&gt;&lt;/p&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;And many more...&lt;/p&gt;
+
+&lt;p style="margin-left:10px; margin-right:10px; text-align:start"&gt;Contact us:&amp;nbsp;&lt;a href="http://www.ethiopianclothing.net/"&gt;http://www.ethiopianclothing.net/&amp;nbsp;&lt;/a&gt;,&lt;a href="http://ocacia.com/habesha-clothes.html"&gt;&amp;nbsp;http://ocacia.com/habesha-clothes.html&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>410f05af-a34c-4e45-bf2a-9cd9b5778568</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>aaa4c587-b77f-4164-80fd-6b2058be7396</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>943f18bd-f94a-4c81-b9db-19053234406a</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>36cb3e2e-cb17-4420-9264-fea4ef339a22</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>d6fd9ba3-bc18-4624-8cc6-8b1726fe7152</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>1500d05e-c694-44e9-b1ab-60d287662e56</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>b2ccf2f7-af47-46e7-8ab1-5a9bc29a1783</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>2a9d5a52-d994-4e11-90bd-08caa3a12d09</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="your-special-day-perfected">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>mix:referenceable</sv:value>
+      <sv:value>hippo:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>ad0c10e2-7e32-4b2c-bd03-92197c1785c3</sv:value>
+    </sv:property>
+    <sv:node sv:name="your-special-day-perfected">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>f9d0b75c-dd60-4033-8a95-109206e5efa6</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Hello, and welcome to Perfect Weddings</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>900.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>YOUR SPECIAL DAY, PERFECTED</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/your-special-day-perfected/your-special-day-perfected[2]</sv:value>
+        <sv:value>products/your-special-day-perfected/your-special-day-perfected[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-04-08T14:51:52.640+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-04-08T15:25:20.687+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>83d74f30-31a0-4715-9a5f-dc7b3fafe6de</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Our unique service offers everything you require with regards to venue decoration including premium quality chair covers and sashes, table centres, balloon decoration, twinkling fibre optic backdrops, floral design, drapes, bay trees, hand-crafted stationery and almost anything to help dress your venue the way you want it.&lt;br /&gt;
+&lt;br /&gt;
+With our offices and showroom based in Altrincham, Cheshire we are well placed to serve all venues in and around the North West. We dress rooms and tables for any special occasion, with particular expertise in Weddings and Corporate Events.&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>09acea9f-4a44-4bd5-b462-a2a70d9e3ff9</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>40962046-bf51-4571-9bd4-89b16ae87d0f</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>846946a8-054f-4b46-b96b-5dc875199a84</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>39c0427b-750e-4142-a8df-451882faf52c</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="hippo:translation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:translation</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:language" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:message" sv:type="String">
+        <sv:value>YOUR SPECIAL DAY, PERFECTED</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="your-special-day-perfected">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>d32272d6-d78c-4d28-af0d-568011104c6b</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Hello, and welcome to Perfect Weddings</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>900.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>YOUR SPECIAL DAY, PERFECTED</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/your-special-day-perfected/your-special-day-perfected[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-04-08T14:51:52.640+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-04-08T15:25:27.905+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>83d74f30-31a0-4715-9a5f-dc7b3fafe6de</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Our unique service offers everything you require with regards to venue decoration including premium quality chair covers and sashes, table centres, balloon decoration, twinkling fibre optic backdrops, floral design, drapes, bay trees, hand-crafted stationery and almost anything to help dress your venue the way you want it.&lt;br /&gt;
+&lt;br /&gt;
+With our offices and showroom based in Altrincham, Cheshire we are well placed to serve all venues in and around the North West. We dress rooms and tables for any special occasion, with particular expertise in Weddings and Corporate Events.&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>09acea9f-4a44-4bd5-b462-a2a70d9e3ff9</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>40962046-bf51-4571-9bd4-89b16ae87d0f</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>846946a8-054f-4b46-b96b-5dc875199a84</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>39c0427b-750e-4142-a8df-451882faf52c</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="your-special-day-perfected">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>ff593fce-6ecb-429b-b3de-86fc96b8e461</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Hello, and welcome to Perfect Weddings</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>900.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>YOUR SPECIAL DAY, PERFECTED</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/your-special-day-perfected/your-special-day-perfected[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-04-08T14:51:52.640+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-04-08T15:25:27.905+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2016-04-08T15:25:30.660+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>83d74f30-31a0-4715-9a5f-dc7b3fafe6de</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Our unique service offers everything you require with regards to venue decoration including premium quality chair covers and sashes, table centres, balloon decoration, twinkling fibre optic backdrops, floral design, drapes, bay trees, hand-crafted stationery and almost anything to help dress your venue the way you want it.&lt;br /&gt;
+&lt;br /&gt;
+With our offices and showroom based in Altrincham, Cheshire we are well placed to serve all venues in and around the North West. We dress rooms and tables for any special occasion, with particular expertise in Weddings and Corporate Events.&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>09acea9f-4a44-4bd5-b462-a2a70d9e3ff9</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>40962046-bf51-4571-9bd4-89b16ae87d0f</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>846946a8-054f-4b46-b96b-5dc875199a84</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>39c0427b-750e-4142-a8df-451882faf52c</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+</sv:node>
